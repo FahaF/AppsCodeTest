@@ -1,1 +1,2 @@
-Basic of git
+# Introduction
+# Basics of git
